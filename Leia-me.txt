@@ -1,0 +1,5 @@
+Para executar o programa, basta rodar o arquivo .py no IDE de sua escolha, realizando as configurações próprias desse IDE.
+Utilize python 3.7 pra cima. Recomendamos python 3.8 por ser a versão mais estável atualmente, mas irá funcionar com python 3.7.
+Também será necessário utilizar as bibliotecas numpy e matplotlib.pyplot.
+Uma vez executado, o programa tem impressões com instruções claras para a execução de cada um dos itens, a), b) e c).
+Apenas um item será realizado por vez.
